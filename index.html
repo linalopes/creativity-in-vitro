@@ -271,13 +271,11 @@ description: "A Live Lab Experience with data, machine-learning, neuroscience"
   }
 };
 
-  svgPanZoom('#mysvg', {
-    zoomEnabled: true,
-    panEnabled: true,
-    controlIconsEnabled: true,
-    fit: true,
-    center: true,
-    mouseWheelZoomEnabled: true,
-    customEventsHandler: svgPanZoom.mobileEventsHandler
-  });
+svgPanZoom('#mobile-svg', {
+  zoomEnabled: true,
+  controlIconsEnabled: false,
+  fit: true,
+  center: true,
+  customEventsHandler: eventsHandler
+});
 </script>
