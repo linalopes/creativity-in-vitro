@@ -1,5 +1,5 @@
 ---
-title: "Blog Cretivity in Vitro"
+title: "Blog Creativity in Vitro"
 layout: default
 pagination:
     enabled: true
@@ -234,11 +234,15 @@ description: "A Live Lab Experience with data, machine-learning, neuroscience"
 </div>
 
 <script src="https://cdn.jsdelivr.net/npm/svg-pan-zoom@3.6.1/dist/svg-pan-zoom.min.js"></script>
-  <script>
-    svgPanZoom('#mysvg', {
-      zoomEnabled: true,
-      controlIconsEnabled: true,
-      fit: true,
-      center: true
-    });
-  </script>
+<script>
+  svgPanZoom('#mysvg', {
+    zoomEnabled: true,
+    panEnabled: true,
+    controlIconsEnabled: true,
+    fit: true,
+    center: true,
+    mouseWheelZoomEnabled: true,
+    // aqui está o toque mágico:
+    customEventsHandler: svgPanZoom.mobileEventsHandler
+  });
+</script>
