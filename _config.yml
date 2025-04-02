@@ -34,7 +34,7 @@ include: ["_pages"]
 permalink: /:title/
 
 # Plugins
-plugins: 
+plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-paginate
@@ -82,19 +82,26 @@ defaults:
       author: lina
       avatar: /assets/images/lina.png
       toc: true
-      
+
   # all pages
   - scope:
       path: "_pages"
     values:
       layout: page
-      
+
 # Syntax
 markdown: kramdown
 highlighter: rouge
 
 # Paginate
 paginate: 10
+paginate_path: "/live-lab/page:num/"
+
+# Collections
+collections:
+  posts:
+    output: true
+    permalink: /:collection/:title/
 
 # Exclude from processing.
 # The following items will not be processed, by default.

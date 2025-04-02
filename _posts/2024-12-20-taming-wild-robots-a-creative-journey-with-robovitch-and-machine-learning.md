@@ -4,7 +4,7 @@ title: Taming Wild Robots - A Creative Journey with Robovitchch and Machine Lear
 id: 2024-12-20-taming-wild-robots-a-creative-journey-with-Robovitchch-and-machine-learning.md
 categories:
   - documentation
-image: https://live.staticflickr.com/65535/54254677120_f8b87e330d_k.jpg
+image: https://lh3.googleusercontent.com/pw/AP1GczMke9JuL30aTXCysOC4P9Ukh-rZKQB2WUerf7Azkc0dqwYpGq1gfRtkwTf6_tySztCNblJBxZ9Z6qBJ0vgY1oYQ1gc8dCwgN8AyQcEkR_jx8YLMvWUtehCvseuV4jnsQN1d7MIxww1bZbVhpaq04B2V=w997-h1026-s-no-gm?authuser=0
 share: "true"
 comments: "true"
 filename: Blog/_posts/2024-12-20-taming-wild-robots-a-creative-journey-with-robovitch-and-machine-learning.md
@@ -16,14 +16,6 @@ date: 2024-12-20
 author: lina
 ---
 If I were a circus performer, my daughter once told me, I’d be the **tamer of wild robots**. This whimsical observation inspired me to take a small but ferocious robot I created back in 2020—**Robovitch**—and teach it a few tricks. Or, as I like to say, to domesticate it. This project is not just about building a functional robot; it’s about bringing creativity, storytelling, and technology together. And it’s a process I believe designers, educators, and technologists will love.
-
-
-
-![](https://lh3.googleusercontent.com/pw/AP1GczMke9JuL30aTXCysOC4P9Ukh-rZKQB2WUerf7Azkc0dqwYpGq1gfRtkwTf6_tySztCNblJBxZ9Z6qBJ0vgY1oYQ1gc8dCwgN8AyQcEkR_jx8YLMvWUtehCvseuV4jnsQN1d7MIxww1bZbVhpaq04B2V=w997-h1026-s-no-gm?authuser=0)
-
-
-
-
 
 ## **The Idea: A Robot That %% Listens %% to Your Hands**
 
