@@ -4,71 +4,6 @@ layout: default
 permalink: "/team.html"
 ---
 
-<style>
-  .about-header {
-    position: relative;
-    width: 100%;
-    height: 200px;
-    background-image: url('../assets/images/Turquoise_Header.svg');
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-    display: flex;
-    align-items: end;
-    justify-content: center;
-  }
-
-  body {
-    /* Subtle gradient from left to right */
-    background: linear-gradient(90deg,
-        rgba(220, 220, 220, 1) 0%,
-        rgba(220, 220, 220, 0.5) 35%,
-        rgba(220, 220, 220, 0.05) 50%,
-        rgba(220, 220, 220, 0.01) 100%);
-    background-color: white;
-  }
-
-  /* Main container styles */
-  .authors-list-container {
-    position: relative;
-    z-index: 1;
-    padding: 2rem;
-  }
-
-  /* Typography styles */
-  h3 {
-    background-color: var(--pink);
-    color: var(--turquoise);
-    font-family: var(--title-font);
-    font-weight: 300;
-    font-size: 2.5rem;
-    margin-bottom: 0;
-    width: fit-content;
-
-  }
-
-  h4 {
-    background-color: var(--deep-purple);
-    color: var(--turquoise);
-    font-family: var(--title-font);
-    font-weight: 300;
-    font-size: 1.8rem;
-    /* display: inline-block; */
-    width: fit-content;
-  }
-
-  /* Link styles */
-  a {
-    color: var(--deep-purple);
-    text-decoration: none;
-    transition: color 0.2s ease;
-  }
-
-  a:hover {
-    color: var(--turquoise);
-  }
-</style>
-
 <div class="about-header">
   <div class="header-content">
     <h1 class="header-title">{{ page.title }}</h1>
@@ -87,10 +22,6 @@ permalink: "/team.html"
       <p class="mb-5">This page honors all of them:</p>
       <h3 class="fw-bold">Mad Scientists</h3>
       The main instigators, provocateurs, and conjurers behind the project.<br>
-      <!-- <ul>
-        <li><strong>Lina Lopes</strong> — Artist, creative technologist, speculative methodologist.</li>
-        <li><strong>Eduardo Padilha</strong> — Scientist, biohacker, AI learner, mind-expander.</li>
-      </ul> -->
       Together, they build interfaces between thought and image, neurons and data, imagination and matter.
     </div>
   </div>
