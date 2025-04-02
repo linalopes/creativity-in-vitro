@@ -10,8 +10,38 @@ pagination:
 description: "Some bits of the day by day"
 ---
 
+<style>
+/* Post title link styles */
+.h4 a {
+    background-color: var(--gray-green);
+    color: var(--deep-purple);
+    text-decoration: none;
+    padding: 0.2rem 0.5rem;
+    transition: all 0.2s ease;
+}
+
+.h4 a:hover {
+    background-color: var(--deep-purple);
+    color: var(--turquoise);
+}
+
+/* Post list link styles */
+.h6 a {
+    background-color: var(--gray-green);
+    color: var(--deep-purple);
+    text-decoration: none;
+    padding: 0.1rem 0.3rem;
+    transition: all 0.2s ease;
+}
+
+.h6 a:hover {
+    background-color: var(--deep-purple);
+    color: var(--turquoise);
+}
+</style>
+
 <div class="container">
-live<!-- Begin post excerpts, let's highlight the first 4 posts on top -->
+<!-- Begin post excerpts, let's highlight the first 4 posts on top -->
 <div class="row remove-site-content-margin">
     <!-- latest post -->
     {% assign latest_post = site.posts[0] %}
@@ -22,7 +52,7 @@ live<!-- Begin post excerpts, let's highlight the first 4 posts on top -->
     </a>
     <div class="card-body px-0 pb-0 d-flex flex-column align-items-start">
     <h2 class="h4">
-    <a class="text-dark" href="{{site.baseurl}}{{latest_post.url}}">{{ latest_post.title }}</a>
+    <a class="" href="{{site.baseurl}}{{latest_post.url}}">{{ latest_post.title }}</a>
     </h2>
     <p class="excerpt">
         {{ latest_post.excerpt | strip_html | strip_newlines | truncate: 136 }}
@@ -56,7 +86,7 @@ live<!-- Begin post excerpts, let's highlight the first 4 posts on top -->
                 {% endif %}
                 <div>
                     <h2 class="mb-2 h6">
-                    <a class="text-dark" href="{{site.baseurl}}{{second_post.url}}">{{ second_post.title }}</a>
+                    <a class="" href="{{site.baseurl}}{{second_post.url}}">{{ second_post.title }}</a>
                     </h2>
                     <small class="d-block text-muted">
                         In <span class="catlist">
@@ -83,7 +113,7 @@ live<!-- Begin post excerpts, let's highlight the first 4 posts on top -->
                 {% endif %}
                 <div>
                     <h2 class="mb-2 h6">
-                    <a class="text-dark" href="{{site.baseurl}}{{third_post.url}}">{{ third_post.title }}</a>
+                    <a class="" href="{{site.baseurl}}{{third_post.url}}">{{ third_post.title }}</a>
                     </h2>
                     <small class="d-block text-muted">
                         In <span class="catlist">
@@ -110,7 +140,7 @@ live<!-- Begin post excerpts, let's highlight the first 4 posts on top -->
                 {% endif %}
                 <div>
                     <h2 class="mb-2 h6">
-                    <a class="text-dark" href="{{site.baseurl}}{{fourth_post.url}}">{{ fourth_post.title }}</a>
+                    <a class="" href="{{site.baseurl}}{{fourth_post.url}}">{{ fourth_post.title }}</a>
                     </h2>
                     <small class="d-block text-muted">
                         In <span class="catlist">
@@ -151,7 +181,7 @@ live<!-- Begin post excerpts, let's highlight the first 4 posts on top -->
 <!-- Now the rest of the posts with the usual loop but with an offset:4 on the first page so we can skip the first 4 posts displayed above -->
 <div class="row mt-3">
     <div class="col-md-8 main-loop">
-        <h4 class="spanborder"><span>All Stories</span></h4>
+        <h4 class="spanborder"><span class="turquoise background-pink">All Stories</span></h4>
 
         {% assign offset = 4 %}
         {% for post in site.posts offset:offset %}

@@ -1,11 +1,11 @@
 <div class="sticky-top sticky-top-offset">
-    <h4 class="spanborder"><span>Featured</span></h4>  
-    <ol class="list-featured">				
-        {% for post in site.tags.featured %}                
+    <h4 class="spanborder"><span class="turquoise background-pink">Featured</span></h4>
+    <ol class="list-featured">
+        {% for post in site.tags.featured %}
             <li class="mb-4">
             <span>
                 <h6 class="">
-                    <a href="{{site.baseurl}}{{ post.url }}" class="text-dark">{{ post.title }}</a>
+                    <a href="{{site.baseurl}}{{ post.url }}" class="">{{ post.title }}</a>
                 </h6>
                 <span class="d-block text-muted">
                     In <span class="catlist">
@@ -15,7 +15,7 @@
                     </span>
                 </span>
             </span>
-            </li>                
-        {% endfor %}   
+            </li>
+        {% endfor %}
     </ol>
-</div> 
+</div>

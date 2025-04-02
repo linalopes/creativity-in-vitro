@@ -57,6 +57,34 @@
   --breakpoint-xl: 1200px;
 }
 
+.deep-purple {
+  color: var(--deep-purple);
+}
+.pink {
+  color: var(--pink);
+}
+.turquoise {
+  color: var(--turquoise);
+}
+.gray-green {
+  color: var(--gray-green);
+}
+
+.background-deep-purple {
+  background-color: var(--deep-purple);
+}
+
+.background-pink {
+  background-color: var(--pink);
+}
+
+.background-turquoise {
+  background-color: var(--turquoise);
+}
+
+.background-gray-green {
+  background-color: var(--gray-green);
+}
 /* Typography Base Styles */
 h1, h2, h3, h4, h5, h6 {
   font-family: var(--title-font);
