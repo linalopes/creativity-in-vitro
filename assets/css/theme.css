@@ -392,8 +392,7 @@ img {
 	text-transform:uppercase;
 }
 .card a:hover {
-	text-decoration:none;
-	color:#03a87c;
+	text-decoration:underline;
 }
 .card-pricing .card ul li {
 	margin-bottom:1.5rem;
@@ -1029,13 +1028,15 @@ body.authors-page {
 
 /* Authors page links */
 .authors-page a {
-    color: var(--deep-purple);
-    text-decoration: none;
+    color: var(--turquoise);
+    text-decoration: underline;
     transition: color 0.2s ease;
 }
 
 .authors-page a:hover {
     color: var(--turquoise);
+    background-color: var(--deep-purple);
+    text-decoration: underline;
 }
 
 #svg-container {
