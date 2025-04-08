@@ -2,57 +2,47 @@
 title: About
 layout: page-sidebar
 permalink: /about.html
-image: https://lh3.googleusercontent.com/pw/AP1GczMke9JuL30aTXCysOC4P9Ukh-rZKQB2WUerf7Azkc0dqwYpGq1gfRtkwTf6_tySztCNblJBxZ9Z6qBJ0vgY1oYQ1gc8dCwgN8AyQcEkR_jx8YLMvWUtehCvseuV4jnsQN1d7MIxww1bZbVhpaq04B2V=w997-h1026-s-no-gm?authuser=0
 comments: false
 ---
-## The Project Creativity in Vitro
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTHiWhaPIw1kMhVl_53vNaXCAVaGXiDjyOu1_-R0tDs5Ouyow7W6vBR1OJ_chkfLsvGrbUNJHKvi9H7/pubembed?start=true&loop=true&delayms=3000" frameborder="0" width="100%" height="400" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-> *If a thought has never been verbalized, does it exist?*
-> *What if imagination could be decoded—without passing through language?*
-> *Could neurons in a Petri dish dream in images?*
+# What is *Creativity in vitro*?
 
-**Criatividade In Vitro** is a collaborative research project by **Lina Lopes** and **Eduardo Padilha**.
-It investigates the poetic and technical possibility of translating pure imagination into visual form — through neural signals, generative AI, and speculative bio-art practices.
-
-Developed during a three-month artistic residency, the project unfolds in two experimental phases:
+Welcome to the Codex. This is not a static website. It’s a live lab, a stitched-together Frankenstein notebook, an archive of raw thoughts and radical procedures.
+You might be here out of curiosity. Or urgency. Or by some strange algorithmic accident.
+Whatever brought you, you’re part of the experiment now.
 
 ---
 
-### 🧠 Phase 1 – Thoughts to Image
-
-We collect brainwave data using EEG devices and train machine learning models to associate neural patterns with visual concepts.
-
-Instead of traditional *text-to-image* generation, we explore a **thoughts-to-image** system — using brain signals as prompts for generative AI (such as Stable Diffusion).
-
-Our dataset begins with descriptive mental keywords like *"red," "square,"* or *"fluid"*, and expands toward more abstract forms of internal imagery.
+### In a hurry? Start here:
+> **Creativity in vitro** is a brain-to-image experiment where imagination becomes visible — without ever being written or spoken.
 
 ---
 
-### 🧫 Phase 2 – Artist in the Dish
-
-The second phase dives into **speculative biology**.
-
-Using lab-grown neural organoids, we explore whether in vitro neurons can respond to stimuli and express creative patterns — raising questions about cognition, imagination, and the minimal conditions required for art.
-
-> *What does it mean to train a brain that has never lived?*
+### Curious? Here’s a bit more:
+*Creativity in vitro* is an artistic research project by Lina Lopes and Eduardo Padilha.
+In Phase 1, we use EEG sensors and machine learning to translate pure thought into visual images — bypassing language entirely. In Phase 2, we apply this trained model to neural organoids cultivated from the artist’s own cells.
+What happens when imagination is transferred to a mini-brain in a Petri dish?
 
 ---
 
-### What This Project Asks
+### Got time? Want to dive deeper?
 
-- Can we externalize imagination without language?
-- Is creativity a uniquely human capacity?
-- What defines an artistic self when the brain is distributed across code or cells?
-- Can we capture glimpses of thought in systems that never dreamed before?
+Watch the short film below. It explains the project, the phases, the madness, and the living minds behind it.
 
----
-
-This project is documented through the **Codex** — a hybrid digital notebook, lab log, and speculative archive. It includes experiments, diagrams, field notes, collaborations, and public rituals.
-
-Our aesthetic is inspired by *grotesque science*, *Frankenstein notebooks*, and *poetic hacking*.
-Expect mess. Expect questions.
-**Expect imagination under the microscope.**
+[Embed YouTube frame here]
 
 ---
 
-> AI is not just a tool here — it is our co-pilot in radical imagination.
+### Who is this for?
+
+- Scientists looking for strange collaborations
+- Artists seeking impossible questions
+- Grantmakers funding the future
+- Poets disguised as engineers
+- You
+
+---
+
+> *This is radical imagination under the microscope.*
+> AI is not just a tool here — it’s our co-pilot in radical cognition.
