@@ -189,7 +189,15 @@ dd {
   margin-left: 0; }
 
 blockquote {
-  margin: 0 0 1rem; }
+  background: var(--gray-green);
+  border-left: 4px solid var(--pink);
+  padding: 1rem 1.5rem;
+  font-style: italic;
+  font-family: var(--highlight-font);
+  color: var(--deep-purple);
+  margin: 2rem 0;
+  position: relative;
+}
 
 dfn {
   font-style: italic; }
@@ -1924,12 +1932,12 @@ fieldset:disabled a.btn {
 
 .btn-danger {
   color: #fff;
-  background-color: #ea2f65;
-  border-color: #ea2f65; }
+  background-color: var(--pink);
+  border-color: var(--turquoise)}
   .btn-danger:hover {
     color: #fff;
-    background-color: #dc1650;
-    border-color: #d1154b; }
+    background-color: var(--deep-purple);
+    border-color: var(--pink); }
   .btn-danger:focus, .btn-danger.focus {
     box-shadow: 0 0 0 0.2rem rgba(234, 47, 101, 0.5); }
   .btn-danger.disabled, .btn-danger:disabled {

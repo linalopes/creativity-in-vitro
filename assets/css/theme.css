@@ -118,7 +118,7 @@ img {
 	border-color:transparent;
 }
 .btn-link.btn-danger {
-	color:#ea2f65;
+	color: var(--pink);
 	border-color:transparent;
 }
 .btn-link.btn-light {
