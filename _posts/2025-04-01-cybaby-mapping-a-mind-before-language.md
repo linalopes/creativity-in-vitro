@@ -8,11 +8,11 @@ image: https://img.youtube.com/vi/RK6dFN4q9DE/maxresdefault.jpg
 share: "true"
 comments: "true"
 filename: creativity-in-vitro/_posts/2025-04-01-cybaby-mapping-a-mind-before-language.md
-tags: 
+tags:
+  - portfolio
 date: 2025-04-01
 author: lina
 ---
-## My Baby, the Machine, and Me
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RK6dFN4q9DE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -25,3 +25,4 @@ When my daughter was born I did a neural helmet proposal for newborns with a vie
 **CyBaby** was a poetic experiment that transformed this data collection and recording into tangible material in a digital performance. It was a proposal for rudimentary transcoding of the thoughts of a newcomer to the world before he learns the language (s) of communication.
 
 
+<iframe src="https://prezi.com/p/embed/DSUJgtQ9u5xl497lZ9vz/" id="iframe_container" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" allow="autoplay; fullscreen" height="315" width="560"></iframe>
