@@ -20,7 +20,7 @@ author: lina
 
 ## Unexpected Resonance
 
-One of the most beautiful outcomes of the *CloudWalk Artistic Residency* has been the unexpected yet deeply generative conversations with fellow residents and researchers. This entry is a celebration of one such encounter — a field ripple sparked by **Rodrigo Mota**, who joined our Codex not just as a peer, but as a catalyst of insight.
+One of the most beautiful outcomes of the *CloudWalk Artistic Residency* has been the unexpected yet deeply <mark style="background: #FFB8EBA6;">generative conversations with fellow residents and researchers.</mark> This entry is a celebration of one such encounter — a field ripple sparked by **Rodrigo Mota**, who joined our Codex not just as a peer, but as a catalyst of insight.
 
 Rodrigo is a data scientist working at the frontier of AI-enabled psychiatry and neuroscience. In his own words, he is passionate about **inner worlds**, knowledge sharing, and entropy as a method. His presence in the group chat turned what was a casual tech inquiry into a mini crash-course in neural signal acquisition, full of nuance, care, and rich references.
 
@@ -50,7 +50,7 @@ These inputs shifted key aspects of our direction:
 - We began comparing headsets like **OpenBCI (16 channels)** and **Emotiv Flex (32 channels)**, balancing resolution with openness.
 - Most importantly: we understood that we’re not just decoding signals — we’re mapping **subjective cognition** into aesthetic form.
 
-Rodrigo’s presence reminded us that collaboration doesn’t always look like a lab or a formal committee. Sometimes, it’s a well-placed message in a group chat that quietly rewires the architecture of your process.
+<mark style="background: #FFB8EBA6;">Rodrigo’s presence reminded us that collaboration doesn’t always look like a lab or a formal committee. </mark>Sometimes, it’s a well-placed message in a group chat that quietly rewires the architecture of your process.
 
 ---
 
