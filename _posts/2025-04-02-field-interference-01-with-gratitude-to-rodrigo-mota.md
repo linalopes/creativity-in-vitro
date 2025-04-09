@@ -4,7 +4,7 @@ title: "Field Interference #01 – With Gratitude to Rodrigo Mota"
 id: 2025-04-02-field-interference-01-with-gratitude-to-rodrigo-mota.md
 categories:
   - alchemists
-image: https://lh3.googleusercontent.com/pw/AP1GczMke9JuL30aTXCysOC4P9Ukh-rZKQB2WUerf7Azkc0dqwYpGq1gfRtkwTf6_tySztCNblJBxZ9Z6qBJ0vgY1oYQ1gc8dCwgN8AyQcEkR_jx8YLMvWUtehCvseuV4jnsQN1d7MIxww1bZbVhpaq04B2V=w997-h1026-s-no-gm?authuser=0
+image: https://photos.app.goo.gl/CuR8J3NEdTb71WiZ9
 share: "true"
 comments: "true"
 filename: creativity-in-vitro/_posts/2025-04-02-field-interference-01-with-gratitude-to-rodrigo-mota.md
