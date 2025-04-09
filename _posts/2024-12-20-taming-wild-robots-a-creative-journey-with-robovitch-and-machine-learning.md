@@ -4,7 +4,7 @@ title: Taming Wild Robots - A Creative Journey with Robovitchch and Machine Lear
 id: 2024-12-20-taming-wild-robots-a-creative-journey-with-Robovitchch-and-machine-learning.md
 categories:
   - documentation
-image: /assets/images/gepeto.png
+image: https://live.staticflickr.com/65535/54254677120_f8b87e330d_k.jpg
 share: "true"
 comments: "true"
 filename: Blog/_posts/2024-12-20-taming-wild-robots-a-creative-journey-with-robovitch-and-machine-learning.md
