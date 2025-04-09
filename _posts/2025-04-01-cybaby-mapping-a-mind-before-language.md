@@ -10,6 +10,7 @@ comments: "true"
 filename: creativity-in-vitro/_posts/2025-04-01-cybaby-mapping-a-mind-before-language.md
 tags:
   - portfolio
+  - featured
 date: 2025-04-01
 author: lina
 ---

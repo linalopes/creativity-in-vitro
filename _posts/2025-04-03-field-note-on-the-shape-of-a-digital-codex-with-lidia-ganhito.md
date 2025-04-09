@@ -5,7 +5,7 @@ id: 2025-04-03-field-note-on-the-shape-of-a-digital-codex-with-lidia-ganhito.md
 categories:
   - meta-codex
   - alchemists
-image: 
+image: https://img.youtube.com/vi/SwxJ7j0DKf4/maxresdefault.jpg
 share: "true"
 comments: "true"
 filename: creativity-in-vitro/_posts/2025-04-03-field-note-on-the-shape-of-a-digital-codex-with-lidia-ganito.md
@@ -15,7 +15,7 @@ date: 2025-04-03
 author: lina
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ID-HERE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SwxJ7j0DKf4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 > _“How do artists and scientists write to each other in the age of digital notebooks?”_
