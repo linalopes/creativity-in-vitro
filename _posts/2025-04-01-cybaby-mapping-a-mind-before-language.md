@@ -16,7 +16,7 @@ author: lina
 ---
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RK6dFN4q9DE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/RK6dFN4q9DE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 When my daughter was born I did a neural helmet proposal for newborns with a view of the generated data. I was afraid of the next step in my life, being a mom and tried to bring this to my comfort zone: a project in art and technology. In that time, Paloma Oliveira organized Hibrida: experimental prototyping of perception amplifiers. And, with the support of GIIP, an academic group at the University of the State of São Paulo, I had the opportunity to perform with my baby (Diana was 2 months old). 

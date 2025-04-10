@@ -4,7 +4,7 @@ title: Creative Neurotechnology - Choosing Your EEG in 2025
 id: 2025-04-10-creative-neurotechnology-choosing-your-eeg-in-2025.md
 categories:
   - cabinet of curiosities
-image: assets/images/favicon.png
+image: https://img.youtube.com/vi/nIyR9McTo_8/maxresdefault.jpg
 share: "true"
 comments: "true"
 filename: creativity-in-vitro/_posts/2025-04-10-creative-neurotechnology-choosing-your-eeg-in-2025.md
@@ -12,6 +12,10 @@ tags:
 date: 2025-04-10
 author: lina
 ---
+
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/nIyR9McTo_8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 ## Introduction
 
 To translate brain activity into visual art – a kind of “mind-to-image interface” – it's essential to use high-resolution EEG (electroencephalography) equipment.
