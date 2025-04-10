@@ -1328,14 +1328,10 @@ svg {
   bottom: 0;
 }
 
+/* Fallback para mobile */
 @media (max-width: 768px) {
   .parallax-image {
-    background-attachment: scroll !important;
-    background-size: contain !important;
-    position: relative !important;
-  }
-
-  .parallax-container {
-    height: 200px;
+    background-attachment: scroll;
+    position: relative;
   }
 }
