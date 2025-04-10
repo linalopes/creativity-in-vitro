@@ -12,9 +12,6 @@ tags:
 date: 2025-04-10
 author: lina
 ---
-```table-of-contents
-```
-
 ## Introduction
 
 To translate brain activity into visual art – a kind of “mind-to-image interface” – it's essential to use high-resolution EEG (electroencephalography) equipment.
