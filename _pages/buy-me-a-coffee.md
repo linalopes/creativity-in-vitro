@@ -33,7 +33,7 @@ permalink: "/buy-us-a-coffee.html"
         <p><em>Support radical imagination, cell by cell.</em></p>
       </blockquote>
       <div class="text-center mt-4">
-        <a class="btn btn-danger" href="">Buy us a coffee</a>
+        <a class="btn btn-danger" target="_blank" href="https://buymeacoffee.com/linalopes">Buy us a coffee</a>
       </div>
     </div>
   </div>
