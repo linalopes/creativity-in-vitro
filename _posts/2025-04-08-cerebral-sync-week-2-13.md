@@ -72,11 +72,10 @@ Topics discussed during the session included:
 - [x] Organize and publish the mini portfolio (Archive of Experiments) ✅ 2025-04-08
 - [x] Curate and annotate relevant images for presentation and Codex ✅ 2025-04-08
 - [x] Clean and organize shared drive materials ✅ 2025-04-08
-- [ ] Make a video about the project (Codex)
+- [x] Make a video about the project to put in the Codex ✅ 2025-04-15
 - [ ] Develop a working definition of radical imagination
 - [ ] Contact Prof. Dr. José Ricardo Sato (UFABC) regarding EEG setup
 - [ ] Continue documentation of scientific papers on brain-image decoding
-- [ ] Post Oron Catts
 
 ---
 
