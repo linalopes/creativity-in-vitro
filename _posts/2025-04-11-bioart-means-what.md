@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Bioart Means What?"
-id: "2025-04-11-bioart-means-what.md"
+title: Bioart Means What?
+id: 2025-04-11-bioart-means-what.md
 categories:
   - archive of experiments
-image: assets/images/favicon.png
+image: https://img.youtube.com/vi/-9O5i3-ktWI/maxresdefault.jpg
 share: "true"
 comments: "true"
 filename: creativity-in-vitro/_posts/2025-04-11-bioart-means-what.md
@@ -13,6 +13,9 @@ date: 2025-04-11
 author: lina
 ---
 > _Tracking Vocabulary Drift Across the World Using Google Alerts, Python, and OpenAI_
+
+
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/-9O5i3-ktWI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## **Act I – Motivation: a missing word**
@@ -180,3 +183,7 @@ and perhaps, a method to listen to the internet like it were a crowd —
 one whispering back hundreds of versions of the same word.
 
 See the next post about VISUALIZATION!
+
+If you're curious about the code and want to explore (or fork) the pipeline,  
+you can visit the repository here:  
+👉 [github.com/linalopes/bio-terms](https://github.com/linalopes/bio-terms)
