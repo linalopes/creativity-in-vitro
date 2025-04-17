@@ -4,7 +4,7 @@ title: Artworks Where Brainwaves Speak in Light, Sound and Fabric
 id: 2025-04-12-artworks-where-brainwaves-speak-in-light-sound-and-fabric.md
 categories:
   - cabinet of curiosities
-image: assets/images/favicon.png
+image: https://laurajade.com.au/wp-content/uploads/RED-e1465135775510.jpg
 share: "true"
 comments: "true"
 filename: creativity-in-vitro/_posts/2025-04-12-artworks-where-brainwaves-speak-in-light-sound-and-fabric.md
