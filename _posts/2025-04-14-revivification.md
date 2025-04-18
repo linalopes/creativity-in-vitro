@@ -4,7 +4,7 @@ title: Revivification
 id: 2025-04-14-revivification.md
 categories:
   - cabinet of curiosities
-image: assets/images/favicon.png
+image: https://i.guim.co.uk/img/media/069e80b3c491efccfbc558b59e7e8207118cb610/0_439_1692_1015/master/1692.jpg?width=880&dpr=1&s=none&crop=none
 share: "true"
 comments: "true"
 filename: creativity-in-vitro/_posts/2025-04-14-revivification.md
@@ -22,4 +22,4 @@ Curiously, Lucies was the first one to wear an EEG and use his brain waves to pr
 
 Can a deceased composer continue to create live performances through his biological agency? Can the installation filled with sounds derived from the artist’s cells be said to be creative? These are the kinds of questions we like to see being asked!
 
-**
+![](https://i.guim.co.uk/img/media/069e80b3c491efccfbc558b59e7e8207118cb610/0_439_1692_1015/master/1692.jpg?width=880&dpr=1&s=none&crop=none)
