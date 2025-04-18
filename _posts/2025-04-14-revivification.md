@@ -1,16 +1,18 @@
+---
 layout: post
-title: "Revivification"
-id: "2025-04-14-revivification.md"
+title: Revivification
+id: 2025-04-14-revivification.md
 categories:
-image: https://lh3.googleusercontent.com/pw/AP1GczMke9JuL30aTXCysOC4P9Ukh-rZKQB2WUerf7Azkc0dqwYpGq1gfRtkwTf6_tySztCNblJBxZ9Z6qBJ0vgY1oYQ1gc8dCwgN8AyQcEkR_jx8YLMvWUtehCvseuV4jnsQN1d7MIxww1bZbVhpaq04B2V=w997-h1026-s-no-gm?authuser=0
+  - cabinet of curiosities
+image: assets/images/favicon.png
 share: "true"
 comments: "true"
 filename: creativity-in-vitro/_posts/2025-04-14-revivification.md
 tags: 
 date: 2025-04-14
 author: eduardo
-
 ---
+
 
 Right after being selected for the CloudWalk artistic residency, I came across a serendipitous post in LinkedIn. Yes, the business-oriented platform that is definitely not famous for sharing art-related content but in which, from what I am about to share, artists have been acting. I realized that when I saw that artist Oron Catts, the famous co-founder of SymbioticA, had just shared a post about the immersive exhibit “Revivification”. 
 
