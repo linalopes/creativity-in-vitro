@@ -39,37 +39,68 @@ But before any of this was technical, it was a decision:
 > To treat process as form. To make visible the invisible. To honor the path, not just the outcome.
 
 
-## [Live Lab] How to build a _Codex_ - technical approach
+## [Live Lab] How to Build Your Own _Codex_ - technical approach
 
 > This section is both a guide for Eduardo Padilha and a memory capsule for anyone else who might one day join the knowledge management ecosystem.  
-> It's not just about _what_ to install, but _why_ these pieces matter and how they talk to each other.
+> One that holds your research, your chaos, your pattern of thought.  
+> This is an infrastructure for alive thinking.
 
-### What you are going to do
+### Step 1: Install Obsidian and Start Thinking
 
-- A GitHub account
-- Obsidian installed
-- Git plugin activated in Obsidian
-- Git installed and authenticated on your computer (either via SSH or token)
-- A cloned repository containing the Jekyll structure
-- Jekyll dependencies installed (Ruby + Bundler)
+Download [Obsidian](https://obsidian.md/) and install it on your machine.
 
+Create your first Vault. Name it something that matters.  
+This will be your personal thinking ecosystem — your seed space.
 
-We’ll walk through each of these below, with Mac and Windows options where needed.
+Start writing. Take notes. Connect them.  
+Get to know how Obsidian thinks with you.
 
-### 1. Install Obsidian
+### Step 2: Create a Jekyll Site _Inside_ Your Vault
 
-Download and install [Obsidian](https://obsidian.md/) for your operating system.
+Now, let’s give your thoughts a spine.
 
-Once installed:
-
-- Open the cloned repository folder as a Vault.
-- Install the **Obsidian Git plugin** via Settings > Community Plugins.
-
-### 2. Install Git on Your Machine
+You’re going to install [Jekyll](https://jekyllrb.com/), a static site generator that turns Markdown into a navigable site — perfect for sharing your research with the world (or just with yourself in another form).
 
 #### Mac:
 
-If you type `git` in Terminal and it’s not installed, it will prompt you to install it. You can also install via Homebrew:
+Make sure you have [Homebrew](https://brew.sh/) installed.
+
+```bash
+brew install ruby
+gem install --user-install bundler jekyll
+```
+
+#### Windows:
+
+Install [RubyInstaller for Windows](https://rubyinstaller.org/), and make sure to check the option to install DevKit.
+
+Then, in the terminal:
+
+```bash
+gem install bundler jekyll
+```
+
+#### Now go into your Vault folder and create your Jekyll site:
+
+```bash
+cd path/to/your/obsidian/vault
+jekyll new .
+```
+
+You’ll be prompted about overwriting files — say yes if you’re ready.
+
+Your Jekyll site now _lives inside_ your Vault. Markdown meets structure.
+
+### Step 3: Create a GitHub Account
+
+If you don’t have one yet, create a [GitHub account](https://github.com/).
+
+Think of GitHub as your time machine and your publishing partner.  
+It hosts your site, keeps version history, and enables collaboration with future you (or others, if you want).
+
+### Step 4: Install Git on Your Computer
+
+#### Mac:
 
 ```bash
 brew install git
@@ -77,7 +108,143 @@ brew install git
 
 #### Windows:
 
-Download and install Git for Windows:  
-[https://git-scm.com/download/win](https://git-scm.com/download/win)
+Install Git from [git-scm.com](https://git-scm.com/download/win)  
+After installation, use Git Bash for terminal commands.
 
-After installation, open Git Bash to use terminal commands.
+#### Then configure your identity:
+
+```bash
+git config --global user.name "Your Name"
+git config --global user.email "you@example.com"
+```
+
+
+### Step 5: Initialize Your GitHub Repository
+
+In your terminal, inside your Vault/Jekyll folder:
+
+```bash
+git init
+git remote add origin https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git
+git add .
+git commit -m "First commit"
+git push -u origin main
+```
+Make sure your GitHub repo already exists (create it on the GitHub site before pushing).
+
+### Step 6: Connect Obsidian with GitHub and Publish Your Codex
+
+This step is how your Códex becomes a living website.
+
+You’ve already initialized your Git repository and pushed to GitHub. Now we’ll connect your Obsidian Vault to GitHub and enable **GitHub Pages** to publish your site.
+
+#### a) Enable GitHub Pages on Your Repository
+
+1. Go to your GitHub repository page.
+    
+2. Click on **Settings** > **Pages** (or find it in the sidebar under “Code and automation”).
+    
+3. Under **Source**, select `Deploy from a branch`.
+    
+4. Choose the `main` branch and click **Save**.
+    
+5. GitHub will generate a public URL like:  
+    `https://yourusername.github.io/your-repo-name/`
+    
+
+<mark style="background: #FFB8EBA6;">Keep this link — it’s your Codex’s address in the world.</mark>
+
+
+#### b) Install and Configure the Obsidian Git Plugin
+
+In Obsidian:
+
+1. Go to **Settings** > **Community Plugins**
+    
+2. Click **Browse**, search for “Obsidian Git” and install it.
+    
+3. Enable the plugin.
+    
+
+Then configure the plugin (in **Settings > Obsidian Git**):
+
+- **Auto commit-and-sync interval**: `10` minutes
+	
+- **Auto commit-and-sync after stopping file edits**: ✅ 
+	
+- **Auto Pull on Startup**: ✅ (Yes — this keeps your Vault up to date)
+    
+- **Commit Message**:  
+    Use something like:  
+    `"daily commit: {{date}}"`  
+    Or customize to your style.
+    
+- **Vault backup path**: set this to the folder where your Jekyll site lives inside your Vault.
+
+
+🔄 **Recommended settings for collaboration**
+
+These options help avoid conflicts and keep both ends in sync:
+
+- ✅ **Commit-and-sync** → enables a full sequence:  
+    `stage changes → pull from GitHub → commit → push to GitHub`
+    
+- ✅ **Push on commit-and-sync** → sends your commit immediately after saving
+    
+- ✅ **Pull on commit-and-sync** → pulls the latest changes before applying yours
+    
+
+With these three turned on, you just need to run `Commit and Sync` — and your local vault and remote site will stay aligned.
+
+Perfect for duos, distributed teams, or multi-device workflows.
+
+#### c) Authenticate GitHub from Obsidian
+
+If this is your first time pushing to GitHub, you’ll be prompted for authentication.
+
+- If using **HTTPS**, you may need to enter a **GitHub Personal Access Token** as password.  
+    [Generate it here](https://github.com/settings/tokens?type=beta) — make sure it has `repo` permissions.
+    
+- If using **SSH**, make sure your keys are set up locally and added to GitHub.
+    
+
+After the first push, your commits will flow directly from Obsidian.
+
+#### d) Push to GitHub from Obsidian
+
+It's set to run automatically as described above.
+
+Once pushed, GitHub will automatically rebuild your Pages site in a few seconds.
+
+Check your published site at:  
+`https://yourusername.github.io/your-repo-name/`
+
+Welcome to the networked chaos.  
+Your Codex is now alive.
+
+
+### Step 7: Serve Your Codex Locally (Optional)
+
+If you want to preview your site as you build it, run:
+
+```bash
+bundle install
+bundle exec jekyll serve
+```
+
+Then open `http://localhost:4000` in your browser.
+
+This is your Codex, live and breathing.
+
+
+### Final Notes
+
+This is not about tools. It’s about structure for your complexity.
+
+Obsidian holds your thoughts.  
+Jekyll gives them form.  
+GitHub gives them memory and reach.
+
+Let your _Codex_ grow as you do.  
+Between the precise and the poetic.  
+Between the unfinished and the infinite.
