@@ -4,6 +4,7 @@ title: Field Note on Navigating Knowledge with GraphREG · with Gabriel Frontera
 id: 2025-04-17-field-note-on-navigating-knowledge-with-graphreg-with-gabriel-frontera.md
 categories:
   - alchemists
+  - code operatory
 image: https://microsoft.github.io/graphrag/img/GraphRag-Figure1.jpg
 share: "true"
 comments: "true"

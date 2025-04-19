@@ -4,6 +4,7 @@ title: Bioart Means What?
 id: 2025-04-11-bioart-means-what.md
 categories:
   - archive of experiments
+  - code operatory
 image: https://img.youtube.com/vi/-9O5i3-ktWI/maxresdefault.jpg
 share: "true"
 comments: "true"
