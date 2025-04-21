@@ -33,6 +33,18 @@ Some use machine learning. Others rely on raw signal mappings. All invite us to 
 > _What happens when thought becomes artifact?_
 
 ## Timeline of Brainwave-Based Artworks
+
+### 2013–2015 — Brainwriter
+
+**Artists/Collaborators:** Tempt One (Tony Quan), Daniel R. Goodwin, OpenBCI, Not Impossible Labs, Graffiti Research Lab (Zach Lieberman, Theo Watson, James Powderly)  
+**Device:** Custom OpenBCI-based EEG headset with Olimex active electrodes and Tobii eye-tracking  
+**Medium:** Digital graffiti and interactive installations  
+**Notes:** An open-source brain-computer interface enabling a paralyzed graffiti artist to create art using brainwaves and eye movements.​
+
+**Description**  
+Brainwriter is an open-source project developed to assist Tempt One, a graffiti artist paralyzed by ALS, in creating art again. By integrating a custom EEG headset (built with OpenBCI and Olimex electrodes) and Tobii eye-tracking technology, the system translates brain signals and eye movements into digital drawings. The software, developed using OpenFrameworks, allows for point-by-point sketching, line bending, and interaction with real-world images, enabling Tempt One to produce intricate digital graffiti. The project also featured an interactive installation at the Barbican Centre in London, where participants used their brainwaves and eye movements to control a game, demonstrating the potential of brain-computer interfaces in art and communication. This initiative builds upon the earlier Eyewriter Project and emphasizes the power of open-source collaboration in assistive technology.​[Daniel R Goodwin](https://danielrgoodwin.com/open-source-eeg?utm_source=chatgpt.com)
+
+---
 ### 2013 — NeuroKnitting
 
 **Artists:** Varvara Guljajeva & Mar Canet (Barcelona)  

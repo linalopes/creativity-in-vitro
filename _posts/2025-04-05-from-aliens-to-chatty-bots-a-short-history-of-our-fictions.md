@@ -4,7 +4,7 @@ title: From Aliens to Chatty Bots - A Short History of Our Fictions
 id: 2025-04-05-from-aliens-to-chatty-bots-a-short-history-of-our-fictions.md
 categories:
   - cabinet of curiosities
-image: assets/images/favicon.png
+image: https://upload.wikimedia.org/wikipedia/commons/7/79/ELIZA_conversation.png
 share: "true"
 comments: "true"
 filename: creativity-in-vitro/_posts/2025-04-05-from-aliens-to-chatty-bots-a-short-history-of-our-fictions.md
@@ -18,6 +18,9 @@ author: lina
 ## Fermi Paradox
 
 I attended a talk by [Sam Ginn](https://www.linkedin.com/in/sam-ginn/) in Lucerne with the title "AI: What Lies Ahead of Us?", and he opened with the Fermi Paradox.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sNhhvQGsMEc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 The Fermi Paradox asks a seemingly simple question: **Where are all the aliens?** Given the vastness of the universe, the countless stars older than our sun, and the high probability of Earth-like planets, we should have encountered signs of extraterrestrial life by now. And yet—we haven’t. The paradox lies in this silence. 
 
