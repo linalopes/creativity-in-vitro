@@ -71,7 +71,29 @@ Gabriel himself is exploring health and wearables as a research path. The idea o
 - Can we use graphs to trace **conceptual evolution over time**?
 
 
+## Traces from the Conversation: Tools & Links
+
+During our conversation, Gabriel shared a few resonant references — useful for anyone interested in animating a corpus of texts into a living, relational entity.
+
+**Walkthrough video**
+
+A clear and engaging walkthrough of GraphRAG in action:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6vG_amAshTk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**Converting PDFs into usable text**
+
+To feed your own documents into GraphRAG (or any NLP workflow), it’s often helpful to convert `.pdf` files into `.txt` or `.md`. Gabriel suggested using:
+
+- [Docling – usage guide](https://docling-project.github.io/docling/usage/)
+- [Docling CLI reference](https://docling-project.github.io/docling/reference/cli/)
+
+⚠️ _Note: Very large documents (1000+ pages) may take several hours to process._
 
 
+**Official GraphRAG documentation**
 
+Dive into Microsoft’s own explanation of the system — including how it builds hierarchical community graphs, and how it enhances LLM responses via graph-structured retrieval.
+
+🔗 [GraphRAG · Microsoft GitHub](https://microsoft.github.io/graphrag/)
 
