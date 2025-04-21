@@ -10,6 +10,7 @@ comments: "true"
 filename: creativity-in-vitro/_posts/2025-04-06-microbial-intimacies-from-petri-dishes-to-the-mit-wall.md
 tags:
   - portfolio
+  - featured
 date: 2025-04-06
 author: lina
 ---
