@@ -4,7 +4,7 @@ title: Microbial Intimacies - From Petri Dishes to the MIT Wall
 id: 2025-04-06-microbial-intimacies-from-petri-dishes-to-the-mit-wall.md
 categories:
   - archive of experiments
-image: https://imgur.com/cVk4P3l
+image: https://i.imgur.com/cVk4P3l.jpeg
 share: "true"
 comments: "true"
 filename: creativity-in-vitro/_posts/2025-04-06-microbial-intimacies-from-petri-dishes-to-the-mit-wall.md
@@ -29,7 +29,7 @@ We made culture media, learned asepsis, talked lab safety, swabbed the world. We
 
 ## And then came _Artist Vaginas_
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRUgpyQUouZzs2lurz3AvBxakgR0OohyBN9CLUccbWyF0_Ijh9pB6y6D2GBRffB7vDXrPMD5qITRs4W/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height="800" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRUgpyQUouZzs2lurz3AvBxakgR0OohyBN9CLUccbWyF0_Ijh9pB6y6D2GBRffB7vDXrPMD5qITRs4W/pubembed?start=true&loop=true&delayms=2000" frameborder="0" width="100%" height="800" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 One of the participants mentioned she had _Candida albicans_, a yeast infection. We began asking: <mark style="background: #FFB8EBA6;">what might grow from our own microbiomes? </mark>What happens when intimacy becomes method?
 
