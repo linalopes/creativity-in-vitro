@@ -17,11 +17,6 @@ date: 2025-04-12
 author: lina
 ---
 
-
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/ID-HERE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-https://img.youtube.com/vi/ID-HERE/maxresdefault.jpg
-
 ## Intro
 
 A generation of artists has turned their nervous systems into instruments. Since the late 2000s, the democratization of EEG technology — from Emotiv’s sleek neural helmets to OpenBCI’s open-source cranial rigs — has opened the skull not to surgery, but to sculpture, performance, and code.
