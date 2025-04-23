@@ -15,7 +15,9 @@ author: lina
 
 ## Introduction
 
+
 Language processing in the human brain is a complex, highly orchestrated function that engages multiple interconnected regions. Decades of research – from classic lesion studies to modern neuroimaging – have converged on the view that language relies on a **distributed network** of brain areas in the **cerebral cortex**, predominantly in the left hemisphere [Frontiers | The Margins of the Language Network in the Brain](https://www.frontiersin.org/journals/communication/articles/10.3389/fcomm.2020.519955/full#:~:text=This%20review%20paper%20summarizes%20the,various%20roles%20of%20neighboring%20and) [The Language Network Reliably "Tracks" Naturalistic Meaningful Nonverbal Stimuli - PubMed](https://pubmed.ncbi.nlm.nih.gov/38911462/#:~:text=The%20language%20network%2C%20comprised%20of,this%20study%2C%20we%20used%20a). This network enables us to comprehend and produce spoken and written language, transforming sounds or visual symbols into meaningful communication. In recent years (approximately 2019–2024), advanced techniques like functional MRI (fMRI), electrocorticography (ECoG), and diffusion tractography have refined our understanding of where and how language is processed in the brain. Below, we summarize current neuroscientific insights into the key brain regions for language, the lateralization of language function, the roles of different lobes in spoken versus written language, and the mechanisms by which the brain processes speech and text. We also highlight findings from human studies (including neuroimaging and aphasia cases) and note comparative insights from primate brains where relevant, to illustrate the evolutionary context of our language network.
+
 
 ![](https://images-provider.frontiersin.org/api/ipx/w=290&f=webp/https://www.frontiersin.org/files/Articles/519955/fcomm-05-519955-HTML-r1/image_m/fcomm-05-519955-g001.jpg)
 ## Core Brain Regions and Language Networks
