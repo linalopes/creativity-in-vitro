@@ -81,6 +81,7 @@ A clear and engaging walkthrough of GraphRAG in action:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6vG_amAshTk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
 **Converting PDFs into usable text**
 
 To feed your own documents into GraphRAG (or any NLP workflow), it’s often helpful to convert `.pdf` files into `.txt` or `.md`. Gabriel suggested using:
