@@ -47,3 +47,74 @@ And we're asking: how do we build better tools to feel our way through language 
 	width = "100%"
 	src = "https://linalopes.github.io/bio-terms/">
 </iframe>
+
+## **Technical Appendix: Building the BioArt Navigator**
+
+This project was built as a modular and entirely client-side visualization stack. Here's a breakdown of the technical choices and steps we followed:
+
+### **1. Data Collection & Cleaning** (previous post)
+
+- We configured a **Google Alert** to track all global mentions of “bioart”.
+    
+- Every new entry was automatically pushed into a **Google Spreadsheet**, which served as our living dataset.
+    
+- We manually cleaned and enriched the dataset: identifying countries, standardizing names, and filtering out irrelevant or repetitive sources.
+    
+
+### **2. Visualization Environment**
+
+- We chose **Svelte** (with **Vite**) for its lightweight reactive structure and fast performance.
+    
+- The project is hosted on **GitHub Pages**, using the `gh-pages` branch for the built version.
+    
+
+### **3. Reading CSV from Google Sheets**
+
+- The spreadsheet was published to the web as CSV, and we used **`d3.csv()`** to fetch and parse it directly into the Svelte app.
+    
+
+### **4. Mapping with Mapbox**
+
+- We used **Mapbox GL JS** to render an interactive 3D globe.
+    
+- Each country was plotted using a custom HTML element as a **marker**, styled dynamically based on how many times it appeared in the dataset.
+    
+
+### **5. Coordinate Resolution**
+
+- Instead of using the Mapbox Geocoding API, we manually created a `countryCoordinates.json` file containing [longitude, latitude] for each country.
+    
+- This file was stored in the `public/` folder and loaded using `d3.json()`.
+    
+
+### **6. Marker Design**
+
+- Each marker is a custom-styled `<div>` with:
+    
+    - A circular shape
+        
+    - Background color indicating data presence
+        
+    - A number inside, representing how many entries referenced that country
+        
+
+### **7. Popups & Interactivity**
+
+- Clicking on a marker opens a **Mapbox popup** with a summary and a **"See data"** button.
+    
+- That button calls a `window.selectCountry(country)` function, which filters the table below to only show entries from that country.
+    
+
+### **8. Responsive Table**
+
+- Below the map, we render a Bootstrap-styled table with the filtered data.
+    
+- The table updates reactively based on the selected country.
+    
+
+---
+
+This prototype is intentionally minimalist and modular — it can be expanded with filters by date, semantic clustering, topic tags, or even integrating language analysis models to infer tone or context.
+
+If you'd like to explore the code or adapt it for your own dataset, feel free to clone the repo or reach out to collaborate.
+[Github repository](https://github.com/linalopes/bio-terms)
