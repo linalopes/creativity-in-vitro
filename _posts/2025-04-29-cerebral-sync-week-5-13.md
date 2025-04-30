@@ -52,7 +52,7 @@ Our mentor from Bern University, Mykhailo, introduced us to the Cognitive Comput
 They offer valuable resources, including tutorials on EEG data acquisition and preprocessing, which can be accessed on their [website](https://neuro.inf.unibe.ch/) and [GitHub repository](https://github.com/unibe-cns).​
 
 
-[Recorded Meeting in Portuguese](https://share.butter.us/recap/a7fae719-f7cf-4cae-9311-583c588a3513)
+[Recorded Meeting in Portuguese](https://share.butter.us/recap/caf8a5dc-f41c-4d5a-b871-0028e99740da)
 
 ---
 ## Action
