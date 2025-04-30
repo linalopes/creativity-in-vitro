@@ -1,16 +1,16 @@
 ---
 layout: post
 title: The Design of Errors
-id: 24-04-2025-the-design-of-errors.md
+id: 2025-04-24-the-design-of-errors.md
 categories:
   - alchemists
   - meta-codex
 image: https://www.researchgate.net/publication/334649442/figure/fig1/AS:784197669105667@1563978702909/Double-Diamond-framework-Nessler-2018.png
 share: "true"
 comments: "true"
-filename: creativity-in-vitro/_posts/24-04-2025-the-design-of-errors.md
+filename: creativity-in-vitro/_posts/2025-04-24-the-design-of-errors.md
 tags: 
-date: 24-04-2025
+date: 2025-04-24
 author: lina
 ---
 
