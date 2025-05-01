@@ -42,6 +42,6 @@ But something works: two parallel servers running, a browser-based slider, and i
 > _The machine listens. Even when it hears a simulation._
 
 
-
+[Github repository](https://github.com/linalopes/arduino-comfyui)
 
 
