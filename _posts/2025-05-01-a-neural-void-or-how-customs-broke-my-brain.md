@@ -1,15 +1,15 @@
 ---
 layout: post
 title: A neural void or how customs broke my brain
-id: 2025-04-30-a-neural-void-or-how-customs-broke-my-brain.md
+id: 2025-05-01-a-neural-void-or-how-customs-broke-my-brain.md
 categories:
   - meta-codex
-image: assets/images/favicon.png
+image: https://media.licdn.com/dms/image/v2/C4E12AQHJJ6DF7kCQ7A/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1633464709986?e=1751500800&v=beta&t=a7BOxYhy_CoESGPRDgqpnfqYhEZ6MI2Zho_kwodmZCA
 share: "true"
 comments: "true"
-filename: creativity-in-vitro/_posts/2025-04-30-a-neural-void-or-how-customs-broke-my-brain.md
+filename: creativity-in-vitro/_posts/2025-05-01-a-neural-void-or-how-customs-broke-my-brain.md
 tags: 
-date: 2025-04-30
+date: 2025-05-01
 author: lina
 ---
 > _April bled into May and my brain still isn’t wired in._
