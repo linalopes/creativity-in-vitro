@@ -4,7 +4,7 @@ title: On the Boat of Touch Designer
 id: 2025-05-05-on-the-boat-of-touch-designer.md
 categories:
   - relic table
-image: https://img.youtube.com/vi/k358cln4OiY/maxresdefault.jpg
+image: https://img.youtube.com/vi/k358cln4OiY/hqdefault.jpg
 share: "true"
 comments: "true"
 filename: creativity-in-vitro/_posts/2025-05-05-on-the-boat-of-touch-designer.md
@@ -15,12 +15,12 @@ author: lina
 
 ## A short summary
 
-**Exploring TouchDesigner + Stable Diffusion via ComputerRender API**  
+**Exploring TouchDesigner + Stable Diffusion via Computerender API**  
 
-As part of the _Creativity in Vitro_ project, we explored using Torin Blankensmith’s TouchDesigner setup for Stable Diffusion image generation. Without a local GPU, we successfully used the **ComputerRender** API to generate prompts and images directly in TouchDesigner. This method proved lightweight, fast, and cost-effective — ideal for Mac M3 users or anyone experimenting without heavy hardware. The test animation was based on the Brazilian song _Aquarela_, turning lyrics into visual prompts. This experiment reflects our ongoing search for poetic and accessible ways to collaborate with machine imagination.
+As part of the _Creativity in Vitro_ project, we explored using Torin Blankensmith’s TouchDesigner setup for Stable Diffusion image generation. Without a local GPU, we successfully used the **Computerender** API to generate prompts and images directly in TouchDesigner. This method proved lightweight, fast, and cost-effective — ideal for Mac M3 users or anyone experimenting without heavy hardware. The test animation was based on the Brazilian song _Aquarela_, turning lyrics into visual prompts. This experiment reflects our ongoing search for poetic and accessible ways to collaborate with machine imagination.
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mRXTR9vcHAs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/mRXTR9vcHAs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## The Cloud Rendered a Boat
 
@@ -59,12 +59,14 @@ This is only our second contact with TouchDesigner, yet it welcomed us with visu
 More experiments to follow. For now, we offer this test animation — a visual echo of a boat, born not from water, but from _latent space_.
 
 
-<iframe width="100%" height="315"
+<iframe width="100%" height="400"
   src="https://www.youtube.com/embed/k358cln4OiY"
   frameborder="0"
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
   allowfullscreen>
 </iframe>
 
+
 📌 _Note to the future self:_ This phase is not about fidelity to vision, but _trust in translation_.  
-We ask the machine to imagine, because we, too, are learning how.
+
+> We ask the machine to imagine, because we, too, are learning how.
