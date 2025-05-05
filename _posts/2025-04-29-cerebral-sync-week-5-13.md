@@ -57,7 +57,7 @@ They offer valuable resources, including tutorials on EEG data acquisition and p
 ---
 ## Action
 
-- [ ]  Resolve the shipping issue with the PBCI headset.
+- [x] Resolve the shipping issue with the OpenBCI headset. ✅ 2025-05-02
 - [ ] Test the structure of the auditory + imagined song experiment.
 - [ ] Review EEG-cleaning protocols from the Bern GitHub.
 - [ ] Continue annotating papers on imagined speech and neural decoding.

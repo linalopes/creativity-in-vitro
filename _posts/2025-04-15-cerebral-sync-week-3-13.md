@@ -41,11 +41,9 @@ Also:
 ---
 ## Actions
 
-- [ ] Padilha will post on the Codex about the exhibition of the mentioned artist. 
 - [ ] Lina Lopes will connect with the OpenBCI and [NeurotechX](https://neurotechx.com/chapter/1529/) communities and share information with Padilha.  
 - [x] They will define keywords and filter scientific repositories to find relevant references for the research. ✅ 2025-04-15
 - [ ] They will define the methodology to be used based on the review of scientific papers.  
-- [ ] Lina Lopes will create a visualization of the term "bioart" as indexed in the past year on Google.
 
 
 ---
