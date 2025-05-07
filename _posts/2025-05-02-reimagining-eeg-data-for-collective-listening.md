@@ -3,7 +3,7 @@ layout: post
 title: Reimagining EEG Data for Collective Listening
 id: 2025-05-02-reimagining-eeg-data-for-collective-listening.md
 categories:
-  - archive of experiments
+  - meta-codex
 image: https://openneuro.org/assets/on-dark-DlVjE234.svg
 share: "true"
 comments: "true"
