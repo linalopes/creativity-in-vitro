@@ -13,7 +13,7 @@ tags:
 date: 2025-05-02
 author: lina
 ---
-## Part 1: EEG Data Sharing and Analysis Platforms
+## EEG Data Sharing and Analysis Platforms
 
 Below is a mapping of major platforms that facilitate **EEG data sharing** and/or **analysis**. We list both open-source and proprietary (with preference to open platforms), including key details for each:
 
@@ -21,9 +21,9 @@ Below is a mapping of major platforms that facilitate **EEG data sharing** and/o
 
 - **Overview**: _OpenNeuro_ (formerly OpenfMRI) is a free, open neuroimaging data repository launched around 2017–2018[pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC10327244/#:~:text=Funded%20in%202018%20and%20led,Developed%20from%20an). It is one of the largest archives for brain imaging data, including EEG, iEEG, MEG, MRI, etc.
     
-- **Institution/Origin**: Led by Stanford University (USA), initially funded as part of the NIH BRAIN Initiative in 2018[pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC10327244/#:~:text=Funded%20in%202018%20and%20led,Developed%20from%20an). Developed from the earlier OpenfMRI project, it embraces community-driven data sharing.
+- **Institution/Origin**: Led by Stanford University (USA), initially funded as part of the NIH BRAIN Initiative in 2018 [pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC10327244/#:~:text=Funded%20in%202018%20and%20led,Developed%20from%20an). Developed from the earlier OpenfMRI project, it embraces community-driven data sharing.
     
-- **Current Status**: **Active** – OpenNeuro is actively maintained with over 1,300 public datasets as of 2025[elifesciences.org](https://elifesciences.org/articles/71774#:~:text=eLife%20elifesciences,range%20of%20neuroscience%20data%20types). New datasets are regularly added and validated. The latest interface update and dataset count are visible on the website.
+- **Current Status**: **Active** – OpenNeuro is actively maintained with over 1,300 public datasets as of 2025 [elifesciences.org](https://elifesciences.org/articles/71774#:~:text=eLife%20elifesciences,range%20of%20neuroscience%20data%20types). New datasets are regularly added and validated. The latest interface update and dataset count are visible on the website.
     
 - **Standards**: Enforces **BIDS** (Brain Imaging Data Structure) format – all uploads must pass a BIDS validator [pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC10327244/#:~:text=OpenNeuro%20focuses%20on%20collecting%20imaging,Electrophysiologic%20data). This standardization simplifies file organization and metadata for broad accessibility[pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC10327244/#:~:text=match%20at%20L651%20%28https%3A%2F%2Fopenfmri,after%20the%20modality%20was%20incorporated).
     
