@@ -34,7 +34,7 @@ The signals we capture from the brain — EEGs, oscillations, electric dreams �
 
 Understanding a signal in the time domain means seeing what happened. Understanding it in the frequency domain means **listening to what vibrates underneath**. Complex numbers are the tools that reveal this hidden polyphony in data.
 
-
+Watching _The Imaginary Number_ by Veritasium is like being handed a flashlight inside a cave of mathematical mystery. Derek Muller doesn’t just explain what $i = \sqrt{-1}$​ means — he reveals how this strange, once-dismissed idea quietly reshaped physics, engineering, and even our understanding of oscillation and waveforms. With clarity, humor, and visual storytelling, he shows how imaginary numbers aren’t imaginary at all, but essential tools that help us model rotation, resonance, and reality itself. This video is more than a lesson; it’s a celebration of how embracing the "impossible" can lead us closer to truth. A true tribute to the power of curiosity, beautifully told.
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/cUzklzVXJwo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
