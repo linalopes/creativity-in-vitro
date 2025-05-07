@@ -1,11 +1,10 @@
 ---
 layout: post
-title: "Reimagining EEG Data for Collective Listening"
-id: "2025-05-02-reimagining-eeg-data-for-collective-listening.md"
+title: Reimagining EEG Data for Collective Listening
+id: 2025-05-02-reimagining-eeg-data-for-collective-listening.md
 categories:
   - archive of experiments
-  - 
-image: assets/images/favicon.png
+image: https://openneuro.org/assets/on-dark-DlVjE234.svg
 share: "true"
 comments: "true"
 filename: creativity-in-vitro/_posts/2025-05-02-reimagining-eeg-data-for-collective-listening.md
@@ -156,6 +155,6 @@ Below is a mapping of major platforms that facilitate **EEG data sharing** and/o
     
 - **Brainlife.io**: An open-source cloud platform (USA) for neuroimaging **analysis** rather than raw sharing. Launched ~2017, it allows users to upload data (including EEG) or fetch open data (it integrates with OpenNeuro) and run processing pipelines in the cloud. Brainlife supports BIDS and offers a marketplace of analysis “apps.” It is **active** and maintained by Indiana University – useful for researchers who want to analyze EEG data online and share results. (Datasets on Brainlife can be private or public; often Brainlife links to data stored on other repositories like OpenNeuro [openneuro.org](https://openneuro.org/datasets/ds006104/versions/1.0.0/metadata#:~:text=Brainlife,for%20MEG%2C%20iEEG%2C%20and).)
     
-- **Kaggle**: A popular data science competition platform (owned by Google, launched 2010). Not specific to EEG, but has hosted EEG datasets for machine learning challenges (e.g., seizure prediction contests, EEG emotion recognition). Kaggle allows **public data uploads/downloads** with a user account. It does not enforce scientific standards (no BIDS), but it’s a **widely used outlet** for sharing preprocessed EEG for ML applications. For instance, the **DEAP dataset** (music EEG for emotion) is available on Kaggle[kaggle.com](https://www.kaggle.com/datasets/samnikolas/eeg-dataset#:~:text=The%20DEAP%20dataset%20consists%20of,16). Kaggle is active and convenient, though researchers should verify data quality since it’s not curator-reviewed like the above platforms.
+- **Kaggle**: A popular data science competition platform (owned by Google, launched 2010). Not specific to EEG, but has hosted EEG datasets for machine learning challenges (e.g., seizure prediction contests, EEG emotion recognition). Kaggle allows **public data uploads/downloads** with a user account. It does not enforce scientific standards (no BIDS), but it’s a **widely used outlet** for sharing preprocessed EEG for ML applications. For instance, the **DEAP dataset** (music EEG for emotion) is available on Kaggle [kaggle.com](https://www.kaggle.com/datasets/samnikolas/eeg-dataset#:~:text=The%20DEAP%20dataset%20consists%20of,16). Kaggle is active and convenient, though researchers should verify data quality since it’s not curator-reviewed like the above platforms.
     
 - **Zenodo / Figshare / OSF**: General-purpose research data repositories that are **open** and citable. Many EEG researchers use these to share data alongside publications. They are _not EEG-specific_ but deserve mention. For example, the _Dryad_ repository was used to share a rich multi-experiment EEG dataset for speech comprehension (see _Dryad-Speech_ in Part 2)[github.com](https://github.com/meagmohit/EEG-Datasets#:~:text=11.%20Dryad,of%20fiction%3A%20one%20to%20the). These platforms usually allow public download and use DOIs; standards like BIDS are optional (user-dependent). They are excellent for long-tail datasets not hosted on the major EEG platforms.
