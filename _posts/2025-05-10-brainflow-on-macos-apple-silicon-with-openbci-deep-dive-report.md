@@ -193,13 +193,18 @@ for ch in range(8):
 # 4. Define an update function to pull data and update the plot
 def update():
     # Get latest data (without removing from buffer):
-    data = board.get_current_board_data(num_samples=250)  # get 1 second of data (250 samples)
+    data = board.get_current_board_data(num_samples=1250)  # get 1 second of data (250 samples)
     if data.shape[1] > 0:
         eeg_channels = BoardShim.get_eeg_channels(BoardIds.CYTON_BOARD.value)
+        sampling_rate = BoardShim.get_sampling_rate(BoardIds.CYTON_BOARD.value)
+        for ch in eeg_channels:
+	        DataFilter.perform_bandpass(data[ch], sampling_rate, 1.0, 50.0, 4, FilterTypes.BUTTERWORTH.value, 0)
+	        DataFilter.perform_bandstop(data[ch], sampling_rate, 48.0, 52.0, 2,FilterTypes.BUTTERWORTH.value, 0)
+		offset = 150
         # For each EEG channel, update its curve with new data
         for idx, ch in enumerate(eeg_channels):
             # We will plot the last N samples from that channel
-            y = data[ch]  # EEG values in µV
+            y = data[ch] + (idx * offset)  # EEG values in µV
             x = np.arange(len(y))
             curves[idx].setData(x, y)
         # (Note: This plots each channel's waveform overlapping; for clarity, one might offset them or use a scrolling X axis.)
