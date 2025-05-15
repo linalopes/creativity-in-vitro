@@ -2,7 +2,8 @@
 layout: post
 title: When Numbers Dream of Becoming Waves
 id: 2025-05-03-when-numbers-dream-of-becoming-waves.md
-categories: 
+categories:
+  - cabinet of curiosities
 image: https://img.youtube.com/vi/cUzklzVXJwo/maxresdefault.jpg
 share: "true"
 comments: "true"

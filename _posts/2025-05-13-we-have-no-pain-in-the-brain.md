@@ -4,7 +4,7 @@ title: We Have no Pain in the Brain
 id: 2025-05-13-we-have-no-pain-in-the-brain
 categories:
   - alchemists
-image: 
+image: https://lh3.googleusercontent.com/pw/AP1GczPD_sWG0iF4WG7cNYJyVLE95iC0sJ-_Y2x0uvF_dWD4g3ju8_hLcncbK15Bc09EDmf6RRbG8XBcglLEs-2rejd89ci_Wc_e1-B42MG7Y3hYPe1EVg4=w2400
 share: "true"
 comments: true
 filename: creativity-in-vitro/_posts/2025-05-13-we-have-no-pain-in-the-brain.md

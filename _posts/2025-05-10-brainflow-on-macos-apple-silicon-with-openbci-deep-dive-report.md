@@ -2,8 +2,9 @@
 layout: post
 title: BrainFlow on macOS (Apple Silicon) with OpenBCI – Deep Dive Report
 id: 2025-05-10-brainflow-on-macos-apple-silicon-with-openbci-deep-dive-report.md
-categories: 
-image: 
+categories:
+  - cabinet of curiosities
+image: https://brainflow.readthedocs.io/en/stable/_static/brainflow_logo_text.png
 share: "true"
 comments: "true"
 filename: creativity-in-vitro/_posts/2025-05-10-brainflow-on-macos-apple-silicon-with-openbci-deep-dive-report.md
