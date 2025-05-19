@@ -1,15 +1,15 @@
 ---
 layout: post
 title: Exploring the Convergence of Art and Neuroscience with Will and Karol
-id: 17-05-2025-exploring-the-convergence-of-art-and-neuroscience-with-will-and-karol.md
+id: 2025-05-15-exploring-the-convergence-of-art-and-neuroscience-with-will-and-karol.md
 categories:
   - alchemists
 image: https://fly.metroimg.com/upload/q_85,w_700/https://uploads.metroimg.com/wp-content/uploads/2025/04/20143856/arte-abstrata-em-museu.jpg
 share: "true"
 comments: "true"
-filename: creativity-in-vitro/_posts/17-05-2025-exploring-the-convergence-of-art-and-neuroscience-with-will-and-karol.md
+filename: creativity-in-vitro/_posts/2025-05-15-exploring-the-convergence-of-art-and-neuroscience-with-will-and-karol.md
 tags: 
-date: 17-05-2025
+date: 2025-05-15
 author: lina
 ---
 

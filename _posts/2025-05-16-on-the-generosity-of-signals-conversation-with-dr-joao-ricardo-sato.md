@@ -1,22 +1,22 @@
 ---
 layout: post
 title: On the Generosity of Signals - Conversation with Dr. João Ricardo Sato
-id: 16-05-2025-on-the-generosity-of-signals-conversation-with-dr-joao-ricardo-sato.md
+id: 2025-05-16-on-the-generosity-of-signals-conversation-with-dr-joao-ricardo-sato.md
 categories:
   - alchemists
 image: https://lh3.googleusercontent.com/pw/AP1GczNhGOIZpJ0iuXkK2RmBDjjQdsPMJgqXtpaVekWhqc9c2IeDXQfP6ZS8ODUANoN2i555J-Ut7DGxi-KRjA-8wD_pTTVJvr_JUI5TebGVzIJlVnCnpf0=w2400
 share: "true"
 comments: "true"
-filename: creativity-in-vitro/_posts/16-05-2025-on-the-generosity-of-signals-conversation-with-dr-joao-ricardo-sato.md
+filename: creativity-in-vitro/_posts/2025-05-16-on-the-generosity-of-signals-conversation-with-dr-joao-ricardo-sato.md
 tags: 
-date: 16-05-2025
+date: 2025-05-16
 author: lina
 ---
 
 > “Perhaps clarity is less about more electrodes and more about less noise.”  
 > – João Sato
 
-We arrived at this conversation through a generous bridge: Rodrigo, a fellow resident at Caldewalk and doctoral student at UFABC, pointed us in the direction of his advisor. The name was João Ricardo Sato, and from the very first email, we sensed something rare: a disposition that is both rigorous and kind.
+We arrived at this conversation through a generous bridge: Rodrigo, a fellow resident at Cloudwalk and doctoral student at UFABC, pointed us in the direction of his advisor. The name was João Ricardo Sato, and from the very first email, we sensed something rare: a disposition that is both rigorous and kind.
 
 On Friday, the three of us met — João, Eduardo and I — to talk about brains, signals, and the rough art of decoding poetry from voltages. Or more specifically, _Creativity in vitro_, my current obsession to find lyrical residues of “Aquarela” inside raw EEG signals using the OpenBCI Cyton + Daisy headset.
 
