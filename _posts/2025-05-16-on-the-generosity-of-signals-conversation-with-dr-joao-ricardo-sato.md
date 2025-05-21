@@ -4,7 +4,7 @@ title: On the Generosity of Signals - Conversation with Dr. João Ricardo Sato
 id: 2025-05-16-on-the-generosity-of-signals-conversation-with-dr-joao-ricardo-sato.md
 categories:
   - alchemists
-image: https://lh3.googleusercontent.com/pw/AP1GczNhGOIZpJ0iuXkK2RmBDjjQdsPMJgqXtpaVekWhqc9c2IeDXQfP6ZS8ODUANoN2i555J-Ut7DGxi-KRjA-8wD_pTTVJvr_JUI5TebGVzIJlVnCnpf0=w2400
+image: https://servidor-conteudo.ufabc.edu.br/arquivos/201920622957f62088250176c285547ba/servletrecuperafoto.jpeg
 share: "true"
 comments: "true"
 filename: creativity-in-vitro/_posts/2025-05-16-on-the-generosity-of-signals-conversation-with-dr-joao-ricardo-sato.md
@@ -38,7 +38,7 @@ These systems don’t seduce with high channel counts. Instead, they offer a qui
 
 Signals need a body that welcomes them. He suggested using **Nuprep** gel to clean the skin and reduce impedance. I nodded. (Since then, I shaved part of my head. Ritualistically. I apply gel with reverence.)
 
-<div style="width:100%;height:480px;background-color:black;text-align:center;">
+<div style="width:80%;height:480px;background-color:black;text-align:center;">
   <video style="height:100%;" controls>
     <source src="https://video-downloads.googleusercontent.com/ADGPM2lVQFuzQiI2s-QKapofNqRy9ekAZLL6_uK66SwaXoLZdcDP5SsOkOL0QZT1qipsN5y07bA9BSTZzXQA7dH93Z3Q682P8khk_9eIWgr1-gYHpHFzu9Km6O7xr908P0p-XCSCJ4Jm1LC2AuEm9ODuDZylBBUDWI3sVbONfea47MS3sLuBQM9MEkkl7JKOxTaEt9WZt3dXpPG6e2tVviUo2zjet0MykriueCXQ54BuX7ThXmXiQq4wT_GRZDpT0pqULO5uG6BY1lpolvjEui4lOc99jR2K4wLLVqfeX777ZwfJjnFBYijwkrTxmkos2KvColoNvM5zyhwONgLK_zjfAq6ty0WL2WFifDK_VscB1EDNFwYLbZJi04UccITPAAPLGGVognmdcX6Zf9sDYEmkazLHmnogCH7szMC0_XReG7ZF9irPOmzL6qFUsPm2zUzdOflia_gr9DCWL2bVQgPjQ2DaCctb8ojjbvQ2m3ieH-8_v1c-jfmXH5M8cvspjGbxy_dSmu4WYg1qFhS1wWnk3msYjDo_MmaxLoirvgRPAuXJ-YO947BP63aYjxjDdcfLqXMpoTBUVLIThzci38b0uOIBhYn3vE9bL-0wcnzsDwb8Vo7EiH04gvI9RK-Nae3kDV3MB71KyE5Q9rfKpOcrgRf848ULTNyaf1KNaqBCwtDU-hWYd4k2PBTx02XTJ1PTvP_FXZBI3QRpbZLY14FceSOzPtlHD3kYU5zZAtrDS902Q-sEhlOKowrcsCj2CujOdFi_7EArBpyprk4WLvV8NljmIcAZLZvD0ICG5oe5N7iWCzrvnP3_mziDynbgBSrTX01kMkABI1nl0-jDXVCpVE_1_eXYCsXddNfWY6FrHgi1jTdDZMiF81h3J-xj0Iq0hAHYApC5TpfCZ8xhh1HDtHVRQHk9I7kLcR-LpPdIlj7TxL41SBbLOG5Obxa890VI6AKJZNcvI5pPaz-RxNyr9xrz5EhAG9uHGZHoY4Sjjeetvu7afrSJymfXfBSwgGX0dvKE9u7KyQfVNFkq7MqkqwFlAMlKN19uA_UF5UfclcT0Uq_--87figMzGUiQaiqMDyizCOkEgJIL2UGMWu7V1R0z7dnYMG0q-YymKADXBkEfLIRd_NHsAuUntxvUryLtGdTW_VseM-_QdE7qZvu_7-MWcKxaCLRTffoDocciJQCKSCo_QLA?authuser=0" type="video/mp4">
   </video>
