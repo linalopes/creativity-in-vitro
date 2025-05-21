@@ -38,11 +38,12 @@ These systems don’t seduce with high channel counts. Instead, they offer a qui
 
 Signals need a body that welcomes them. He suggested using **Nuprep** gel to clean the skin and reduce impedance. I nodded. (Since then, I shaved part of my head. Ritualistically. I apply gel with reverence.)
 
-<div style="width:100%;height:480px;background-color:black;text-align:center;">
-  <video style="height:100%;" controls>
-    <source src="https://video-downloads.googleusercontent.com/ADGPM2kukHcObn-IzogZ2qKNukk2yKz5ehApOdlmH2wXstioDiSKlAqfXcm1XOiB0yFbOpvp9Xns4H-xiyDTlhdythg1foYQnFsi3oYkRPMEdSTjkcHJQKdAY16Vob_v7nK_C2pnsk6lRYXwiRd2rxlzdqpZ0x786IRtea2qxGjzkXiHVBjCkpv63oMqghpC9AoapafkuzXhsPu11hNPVT-GzBvkt9fc3fzcFgBRelV14u6QiWeBtkIi3KBEe8Y6NN5xnKDae7UNraXxEF25-MMOsoxUOjLwtxon1d9EuarTBgyp4gR3hNnGTRYFVDFItGHEleSChttGkk3tjHVkFfzyjQV8P3ZrXIYlIGxsez1vDjA2EyhJq5MzKXHozul9yV_X-Vboy_Tqm1zOdCGivQlHM8p8cx_dSN8Ue2LS7F-xATRVpKxvA9HCXxgDegtBfg4wOertch0m_6q55mjft-sDtLlaTwWjHHILTN_sVvSP-7EGD06lrlinHU-8nspQhkb4oaQLwTOi4qmtbv-JqyxgeREZbklLSl1xxGM1KSxtf41uIOYAg5FG_kXcnoTIZnaIkA5kVQTkxQJPizitwaZdWa76IBzl7CO-xNm0HCZvEXr7XXSDiInQZuIVkqNYud3saN_7h-0aQdoiC2M0pzhrWXLrxkt0n98N6pryOfCnQ2eU5sUA4J41M617FbLqIiLlpt1Ow-nxDdayJrLePMi2NpNMPDjJ8q-6Jf2wejrb4rbjKK-v33gD7i1fm-25PxN51oa5SF-OEQ_X9UzowULhl9a3GYNcmQbnuvANnEjqvZOWBAljY37z9w67YZOFZJf3WNSaUq_6R8s0bEsJMouVkC0yRGimCTE-VRwcH_ZS49CS1yBDciUc9bc471qghiy-6hPs6wiV_gcOPYTzXBeaa_V4RA6lMkdQATuyHHHRrIpRgpvjPaYYOvg2A-EGvGsJJBg0N4ws7NOtbMRjku7ieKjlOpyGkXGew_ECBVN5hrSsENsmNqaTbZk6b7tiDUZH8Rm0IcDWPo8TT7sLwTaqjIA9eoRZfX6Gq-t5gee4fEf4_vV8pTc22UsdQCP52-0DtwdIHsD-OhJivPR9JhSX4wuBSDL9o9KDo495kGmtslslsCqGOQ5ec9w3uVLIuAxsIJWAo_INpVpV8_IBoSSc65-owlZs7dYb5zhxiVxz6vw5V-am3Zs?authuser=0" type="video/mp4">
-  </video>
-</div>
+<iframe width="100%" height="400"
+  src="https://www.youtube.com/embed/uKnO024C6xw"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen>
+</iframe>
 
 
 ## On failure as a threshold
@@ -60,12 +61,8 @@ If it vanishes when you open your eyes, you’re alive — and your headset is l
 I’ve implemented this now as my default calibration ritual.  
 Alpha as a gatekeeper.
 
-<div style="width:100%;height:480px;background-color:black;text-align:center;">
-  <video style="height:100%;" controls>
-    <source src="https://video-downloads.googleusercontent.com/ADGPM2ntnC7hjWYzfLJweHmmPfNqa6OuK8xp90IQG7gmULvO3YzI_1P25POf44V0xmSbprn2zOI7M9NRvQaGWSgqJkDqOt-HpmCgn3wMB4Gz2_FVXI8aR7ZlQlN59knpLLqVPms1DW2x8km0dYMCoTeEecCKKWK0nz2GSAOJwAIJOFHnbMTdd8vaf9iSbxuV8BmnjkEkV7eA9wXe6EI0FNEJJK6Rc0nlmZTXGWwQs4dzVMgXdDHYXqoarj9yO2wWbIrs0jehN0BVFpfs8rcUUb5cs-A28eHR-jlvSVO9e2eAaFtVt-tgt8MhhTaKkhnfvhcirOa0s5CRuGnw6C2j5h5-rlgwxt-FR8gZ6wR0zhjTd00U98i0vGuNrYrlp3l1ZI13OOAGMQ6rqCAxqwbPtsX2lcYf9rYpsfMxfN-WCgv81MqnfCC0erwUIS7bUXdGeALQ5jDW4yVHGWHzYbYB9LJGx5I6YYTU03VRdkkWaVptHwYRYL85FOx1z-WtqJd0XwyX6-7klNgKCTpako5VxsxroMLGzxtWZ13fkTLOT1u-6bsObVLu19pr4pgTg1LFovUHEePAvjGqzbiPsu6i1BIx9uEQRiPtlLfGpB5NC44z-ILsGgFh5tH4DZqmiTcZYq4i_IjqWO_wZqSow1wWqef_9jB1cjRKpvDn4ydvFzntbXZMQuVVq_DtcS1Bn8oo2htM9dxVSv257HIkOZlenSd7Y9H-sM10dO14t0QCaLjmmTke2msYmEoRfYonqvls8bt7dqWzH82zlgcCurnSf8VKa66M2p5EAVTHEs_ASFzYUjgBA0lVl5Cfkr6lLjoyJ8MrR3Mi3c8conKmpS_JaWSgW7qzZtm1baoZLc5Mg0emPEKd9m4QzmGBJzWBhEi_0aF_kj6hUJjOv593wYqu6TtHSZKc40AAyGW6MdfDFI1DoBIMUPhf1MsNY3uGC4TgH_eCV5RBY5KCH6Dz1yyWftQGM285BHoyquYtmHzf-epn-PfC16EybeIUBR-Yb3ssJcirpYwWXWYkmwRlBvlfkYkh4Rt14wD5iz0uD6cZSeGcM6Qj62AGRHNiZSGmq1KBuOfPiC4erWzC-9usynAMSVnT2G2qYDCEsQfCpqmYBUWJzcngAGoMPcnSN7bPrgOUiDyrwKMbG24Jabgtx2wyKn128rW_FX-iqIW8ZO_pybz5PsHXv83lfr4?authuser=0" type="video/mp4">
-  </video>
-</div>
 
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/m68M1fuVZ0E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## On metrics that speak medicine
 

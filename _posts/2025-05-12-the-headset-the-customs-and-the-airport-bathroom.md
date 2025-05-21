@@ -77,11 +77,13 @@ That was a lie.
 
 Soon enough, I was soldering again.
 
-<div style="width:100%;height:480px;background-color:black;text-align:center;">
-  <video style="height:100%;" controls>
-    <source src="https://video-downloads.googleusercontent.com/ADGPM2mAOGPGkOIwuE7QLWSLpcU__S3kCpw4TFaQ6bEMsnqQLimrZnX5pJ6Nvf8B0J-Z4tsKRMduweKa6b19CUr5WhEYk9NSu-R9oQqeAku7s2pFJJi1SJRRfPp0QlWpPiV2kXVttvSJ0WJLL6lf2Ab9HLCBIo71Rj7qFKIZnGHZgwT0udv936abwKlBPUupzrY7QumjdRnXulTooKX1f-uDCK11ULHfCeUHOP-PH8u20RpKDUY0VaBciaqUqudU677stCd9ZKbRh08oH1VhT6ubgmQxdzuvyS91Iwkoh58NMLxatPZm0Ehz6kARjAgHTvoOHBSSEBD6OAz6XCr1WG53o_CUcQc0JpJJRAwBbAUX9xw7eqsWEjKgIwmJ17sLjhI3jheBGQuFlpYb1BGCjVIj8An42mAxzNTkPzrsfDk34IRS_OT_PQi-t4Dm2TuT_PfYvXJbuweKc_WzWYLL4SA_7Gk-xzuhtlLIpNmuECL9i6zzAjNDWzNMV4K_I-s-rNOcnAM8gS7nt4emT4JLmGnQOLmJdBU-5UuhjPYe3deIpt6vzHIJA91ZnYaVdjHUYfmXdJA_wLVvG5skLJvwftiMkcdGWNU_jCT7hNInhfYaoDGh_JiIxUuymeUbPJ0YOEw4JIKj3E6kIdc_-NtkIWCFqG0UMAWaBk3E2XcSGpFmmlqzL_5dVX9s4FqAVQdMXMFE7H8lMCdkGKcmPzI4P8uSnA12nwbAtiktLq_jofe71OZSOL4uoBkf84zwOgWHkXizDvyRlrphtzAB_ezEq9xe6fAP4nseA4uquC_Euun7uuFuJj4p2EYi7lq2vEbKvEihU6q9zCXN2bDz59AcSZnnSTirzzGqqq05E6y-4xJyz5Kz1-HCpT3QObAVXq96jtYHVNudBb6Fg9-zocWmJGCXtCEfix4EDjxpurDzYuQC9w1REXGWUMO860HOSSLD6gW2MqJugREbaWK96Pd0SR6_a0J-rXDcVS2KAJkhJl7U3_nntIIq37YO4xsfEJGEc8u9T49m7sziFL1MopXFmNZTmOHHFAsBsTgvuZbemq44KzEBS9YJn2TrWm9MfpZ6awWTmWql7saZUxEWNJtpnwvrW9Tn_I5QHRbZ9cnaN89MmjqNtKW4-Y-v3oJ4ZkfRZR00UtS8HmbDCVSCKq5Q4zLeCahpnZjFertEgi1bDLYBoLHTgxZlX-k?authuser=0" type="video/mp4">
-  </video>
-</div>
+<iframe width="100%" height="400"
+  src="https://www.youtube.com/embed/5fNn3MY4nfY"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen>
+</iframe>
+
 
 ---
 
