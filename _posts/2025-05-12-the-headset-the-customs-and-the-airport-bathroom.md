@@ -2,7 +2,8 @@
 layout: post
 title: The Headset, the Customs, and the Airport Bathroom
 id: 2025-05-12-the-headset-the-customs-and-the-airport-bathroom.md
-categories: 
+categories:
+  - neural harvest
 image: https://lh3.googleusercontent.com/pw/AP1GczNDou3JIRo9TWw63hKxpZ-ebDrdvZxW-3kCE359li7eFu7Q9oK-MSG7A9u168rfNMt5S6ndXkW5QXQUXDgm-L_cBJ3JtruU7UEm3yFx0yCsk_wKH30=w600-h315-p-k
 share: "true"
 comments: "true"

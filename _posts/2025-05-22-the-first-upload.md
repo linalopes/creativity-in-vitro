@@ -35,7 +35,7 @@ Here’s what I discovered:
 
 These 20 blocks — now cleaned and organized — were saved as `.pkl` files.  
 
-In a second notebook, I reopened them to identify the **blink markers** between loops. I didn’t insert any digital triggers — just **pulses of the eyelid**, visible in Fp1 and Fp2. I scanned the signal for **two blinks** per block, and used them to divide each session into **three loops**. That gave me 60 recordings in total — 3 per block, each tied to a listening of six phrases.
+In a second notebook, I reopened them to identify the **blink markers** between loops. I didn’t insert any digital triggers — just **pulses of the eyelid**, visible in Fp1 and Fp2. I scanned the signal for **two blinks** per block, and used them to divide each session into **three loops**. That is supposed to give me 60 recordings in total — 3 per block, each tied to a listening of six phrases. Once I can confidently split each session into the 3 loops, the next challenge is to segment each loop into the six lyrical phrases — and that’s where I would really appreciate any insight now.
 
 Next, I’ll divide each loop into six temporal slices, one per phrase — probably by second. It’s not perfect. It’s not clinical. But it’s **radically personal**, and **methodologically transparent**.
 
