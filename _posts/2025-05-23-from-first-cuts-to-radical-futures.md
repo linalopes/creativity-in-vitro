@@ -2,7 +2,8 @@
 layout: post
 title: From First Cuts to Radical Futures
 id: 2025-05-20-from-first-cuts-to-radical-futures.md
-categories: 
+categories:
+  - domestic protocols
 image: https://lh3.googleusercontent.com/pw/AP1GczMME3JWEuAVbtweOyuDxQOHlAj7mpCFZr953r6fT0cVykUvdQ3XEN6TpxphJKcXU7kt5IA1d42PagmaYgzRfqyJXWLLs5dygBcZEE7okRrEI9wVAIY=w2400
 share: "true"
 comments: "true"
