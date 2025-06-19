@@ -1,15 +1,15 @@
 ---
 layout: post
 title: Cerebral Sync - Week 10/13
-id: 2015-06-03-cerebral-sync-week-10-13.md
+id: 2025-06-03-cerebral-sync-week-10-13.md
 categories:
   - meta-codex
-image: assets/images/favicon.png
+image: https://img.youtube.com/vi/-L-KEZi5Fv8/maxresdefault.jpg
 share: "true"
 comments: "true"
-filename: creativity-in-vitro/_posts/2015-06-03-cerebral-sync-week-10-13.md
+filename: creativity-in-vitro/_posts/2025-06-03-cerebral-sync-week-10-13.md
 tags: 
-date: 2015-06-03
+date: 2025-06-03
 author: lina
 ---
 > “Life itself is noisy; our job is to find clarity amidst the static.”
@@ -38,6 +38,8 @@ This meeting aimed to explore the analysis of EEG signals, emphasizing signal-to
 - **Literature Review and Comparative Study**: An in-depth examination of recent EEG research guided methodological decisions, emphasizing the practicality of ICA combined with wavelet transforms, and insights into successful machine learning techniques.
     
 
+[Recorded Meeting in Portuguese](https://youtu.be/-L-KEZi5Fv8)
+
 ---
 
 ### Action Items
@@ -64,3 +66,5 @@ This cerebral syncing marked significant progress in understanding the complexit
 - **Machine Intuition**: Leveraging AI interpretations (via GPT) brought poetic reflections to technical analyses, suggesting a symbiotic relationship between computational clarity and creative speculation.
     
 - **Speculative Futures**: Conversations hinted at broader speculative questions about cognition, creativity, and identity, suggesting intriguing avenues such as "brain donations" from artists, highlighting the speculative essence of Creativity in Vitro’s ambitious vision.
+
+

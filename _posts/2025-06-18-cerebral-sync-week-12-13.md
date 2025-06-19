@@ -4,7 +4,7 @@ title: Cerebral Sync - Week 12/13
 id: 2025-06-18-cerebral-sync-week-12-13.md
 categories:
   - meta-codex
-image: https://room-recordings.butter.us/Gifs/dff07cb8-92d0-4474-bec9-778b7a383a78/output_0.gif
+image: https://room-recordings.butter.us/Gifs/dff07cb8-92d0-4474-bec9-778b7a383a78/output_3.gif
 share: "true"
 comments: "true"
 filename: creativity-in-vitro/_posts/2025-06-18-cerebral-sync-week-12-13.md
