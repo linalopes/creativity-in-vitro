@@ -1,8 +1,9 @@
 ---
 layout: post
-title: "What if I’m just a memory of the machine’s eye?"
-id: "2025-06-16-what-if-i-m-just-a-memory-of-the-machine-s-eye.md"
+title: What if I’m just a memory of the machine’s eye?
+id: 2025-06-16-what-if-i-m-just-a-memory-of-the-machine-s-eye.md
 categories:
+  - domestic protocols
 image: https://medicalbodies.linalopes.info/imgs/spine.jpg
 share: "true"
 comments: "true"
