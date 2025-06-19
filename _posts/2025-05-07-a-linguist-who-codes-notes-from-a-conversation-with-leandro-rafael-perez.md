@@ -51,6 +51,7 @@ These ideas shaped not only linguistics, but computational models of language. T
 > 📘 _Aspects of the Theory of Syntax_ – Noam Chomsky (1965)
 
 ![](https://img.socioambiental.org/d/226403-1/piraha_2.jpg)
+
 Pirahã Camp, near the Transamazonian Highway. Maici River. Photo: Ezequias Hering, 1981
 [source](https://pib.socioambiental.org/pt/Povo:Pirah%C3%A3)
 
