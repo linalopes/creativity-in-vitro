@@ -28,7 +28,7 @@ There might, however, be some errors due to the process of stitching the images 
 ![](https://www.science.org/cms/10.1126/science.adk4858/asset/d426bed3-9963-4b0e-8a7e-6f641c5c04d2/assets/images/large/science.adk4858-fa.jpg)
 
 
-Exciting as it is, I couldn’t help but think of the [series Pantheon](https://en.wikipedia.org/wiki/Pantheon_\(TV_series\)).  
+Exciting as it is, I couldn’t help but think of the [series Pantheon](https://www.youtube.com/watch?v=wTgYeETwgKQ).  
 In the series, a point has been reached that allows for a technology to be able to scan the whole human brain and upload it to a server creating the so-called Uploaded Intelligences (UI). These are the actual disembodied minds of the people whose brains were scanned - and destroyed in the process - and that continue operating within computers (although there is room for editing and suppressing parts of these UIs, leaving the process in the hands of not-always-well-intentioned people.  
   
 Is the mapping of this cubic millimeter of brain the beginning of the scenario in Pantheon?

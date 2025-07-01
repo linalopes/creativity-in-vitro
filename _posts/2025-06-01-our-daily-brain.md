@@ -4,7 +4,7 @@ title: Our Daily Brain
 id: 2025-06-01-our-daily-brain.md
 categories:
   - meta-codex
-image: https://room-recordings.butter.us/Gifs/10286f35-b6c3-48af-86c8-1eee267c28e9/output_0.gif
+image: https://m.media-amazon.com/images/I/61zSnsveJ1L._UF1000,1000_QL80_.jpg
 share: "true"
 comments: "true"
 filename: creativity-in-vitro/_posts/2025-06-01-our-daily-brain.md
@@ -32,6 +32,9 @@ Though I have not yet finished reading the book at the time of writing these wor
 - The reason why we cannot remember most of our dreams is the low amount of noradrenaline in the brain during sleep
     
 - Ducks can sleep with only half their brains
+  
+  
+![](https://m.media-amazon.com/images/I/61zSnsveJ1L._UF1000,1000_QL80_.jpg) 
 
 I don’t know about you but to me these were quite interesting facts to learn!
 Unfortunately, the book has not yet been translated to English (although [another book by her](https://direct.mit.edu/books/book/4069/The-Human-AdvantageA-New-Understanding-of-How-Our) is!)
