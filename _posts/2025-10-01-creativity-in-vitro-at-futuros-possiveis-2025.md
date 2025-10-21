@@ -12,7 +12,7 @@ date: 2025-10-01
 author: lina
 ---
 
->[!important] _Preparing a bio-interface for imagination_
+> _Preparing a bio-interface for imagination_
 
 _Note: This post (and the Codex) is written in English. The entire activation at the festival—workshop, conversations, and panel—will be held **in Portuguese**, in **Rio de Janeiro (BR)**._
 
@@ -40,9 +40,10 @@ A dark room becomes a thinking surface: four worktables with artifacts from our 
 **Why step inside:** enter our “brain-atelier-laboratory,” read with the body (not only the cortex), and trade ideas in a space where concepts are cultivated like neurons in culture media.
 
 ### 2) Co-creation studio: from memory to speculation
+
 ![workshop | 400](https://lh3.googleusercontent.com/pw/AP1GczOELO5NFvshW0M9tAFSTVk6DZ8kTKlKTJJqyx9BDFA0XLCYwLXE-gtkS_yC07Acm8SjmRIvg9SgTxi-Od16MMRFfrXUEuVqkydSBubWwrwFeWo9nFk=w2400)
 
-We begin with a **significant object**. Each participant traces its material story and keywords. Then we flip the premise: _what if this object were an interface to a living AI?_ We sketch speculative futures with quick drawings and **visual AI prototypes** (e.g., DALL·E), turning memories into radical fabulations about brain, body, and machine.
+We begin with a **significant object**. Each participant traces its material story and keywords. Then we flip the premise: _what if this object were an interface to a living AI?_ We sketch speculative futures with quick drawings and **visual AI prototypes** (e.g., DALL·E, Nano Banana, Midjourney), turning memories into radical fabulations about brain, body, and machine.
 
 > **When & where:** **24 Oct, 10:00–12:00 — EDUCA FREIRE** (festival venue).  
 
